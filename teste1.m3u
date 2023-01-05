@@ -1,8 +1,88 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Animal Planet
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+
+############## documentários #################  
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Animal Planet
 http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/804
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="ツ | INFANTIS",Cartoon Netork
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="Discovery Channel Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Discovery Channel
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/808
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="Discovery Home & Health Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/513px-Discovery_H%26H_Logo_2022.webp.png" group-title="ツ | DOCUMENTÁRIOS",Discovery Home & Health
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/807
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="Discovery Science Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="ツ | DOCUMENTÁRIOS",Discovery Science
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/820
+#EXTINF:-1 tvg-id="DiscoveryTheaterBrazil.br" tvg-name="Discovery Theater Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/512px-2015_Discovery_theater_HD_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Discovery Theater
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/821
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="Discovery Turbo Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Discovery Turbo
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/818
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-name="Discovery World Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/512px-World_Discovery_HD_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Discovery World
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/802
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="History 2 Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="ツ | DOCUMENTÁRIOS",History 2
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/781
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="HGTV Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="ツ | DOCUMENTÁRIOS",HGTV
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/861
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="History Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="ツ | DOCUMENTÁRIOS",History
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/806
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="National Geographic Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="ツ | DOCUMENTÁRIOS",National Geographic
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/805
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-name="TLC Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",TLC
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/809
+
+############## esportes #################  
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BandSports_logo_2018.png/512px-BandSports_logo_2018.png" group-title="ツ | ESPORTES",Band Sports
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/768
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | ESPORTES",NOME NA LISTA
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/
+
+############## infantis #################  
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="ツ | INFANTIS",Cartoon Network
 http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/823
+
+############## ksa sports #################  
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-name="KSA Sports 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/fullhd_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="KSASports2.sa" tvg-name="KSA Sports 2" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/fullhd_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 2
@@ -11,3 +91,7 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-name="KSA Sports 4" tvg-logo="https://aloula.faulio.com/storage/mediagallery/1e/47/fullhd_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 4
 https://edge.taghtia.com/sa/17.m3u8
+
+############## config #################
+#EXTINF:-1 tvg-id="idcanal" tvg-name="nomecanal" tvg-logo="" group-title="ツ | CATEGORIA",NOME NA LISTA
+http://linkdocanal
