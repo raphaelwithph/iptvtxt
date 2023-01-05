@@ -1,0 +1,7 @@
+#EXTM3U
+
+############## documentários #################  
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Animal Planet
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/804
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Discovery Channel
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/808
