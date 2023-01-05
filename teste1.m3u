@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+#EXTM3U
 
 ############## documentários #################  
 #EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Animal Planet
