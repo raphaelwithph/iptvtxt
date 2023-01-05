@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="ツ | DOCUMENTÁRIOS",Animal Planet
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/804
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="ツ | INFANTIS",Cartoon Netork
+http://uva.bccdn.xyz:80/8504880259pw/4009419717pw/823
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-name="KSA Sports 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/fullhd_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 1
+https://cllive.itworkscdn.net/ksasports1live/token=nva=1672893253~dirs=1~hash=0caf9584eeeb8898b2c0c/ksasports1.smil/ksasports1_source_chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-name="KSA Sports 2" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/fullhd_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 2
+https://cllive.itworkscdn.net/ksasports2live/token=nva=1672893889~dirs=1~hash=0bf3b321ec3e17b41ee8f/ksasports2.smil/ksasports2_source_chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-name="KSA Sports 3" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/fullhd_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 3
+https://cllive.itworkscdn.net/ksasports3live/token=nva=1672894529~dirs=1~hash=04762494f1c2d15502024/ksasports3.smil/ksasports3_source_chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-name="KSA Sports 4" tvg-logo="https://aloula.faulio.com/storage/mediagallery/1e/47/fullhd_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png" group-title="ツ | KSA SPORTS (CR7)",KSA Sports 4
+https://cllive.itworkscdn.net/ksasports4live/token=nva=1672894244~dirs=1~hash=090d4c3b16f2c6b65a4ba/ksasports4.smil/ksasports4_source_chunks_dvr.m3u8
