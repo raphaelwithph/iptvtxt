@@ -75,8 +75,60 @@ http://hdmais.com:80/Matheus2689/mat6935/10054370
 http://hdmais.com:80/Matheus2689/mat6935/10054378
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://i.imgur.com/zHqgXGX.png" group-title="ツ | ESPORTES",SporTV 3
 http://hdmais.com:80/Matheus2689/mat6935/10054374
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WooHoo FHD" tvg-logo="https://i.imgur.com/zHqgXGX.png" group-title="ツ | ESPORTES",Woohoo
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WooHoo FHD" tvg-logo="https://acstatic.co/logos/canais/woohoo.png" group-title="ツ | ESPORTES",Woohoo
 http://hdmais.com:80/Matheus2689/mat6935/10055055
+
+############## filmes #################  
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/ZJNeWVx.png" group-title="ツ | CATEGORIA",AMC
+http://hdmais.com:80/Matheus2689/mat6935/10055043
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/GeA6Gx0.png" group-title="ツ | CATEGORIA",Canal Brasil
+http://hdmais.com:80/Matheus2689/mat6935/10054946
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Cinecanal FHD" tvg-logo="https://i.imgur.com/WvmNq5g.png" group-title="ツ | CATEGORIA",Cinecanal
+http://hdmais.com:80/Matheus2689/mat6935/10054345
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" group-title="ツ | CATEGORIA",Cinemax
+http://hdmais.com:80/Matheus2689/mat6935/10054927
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://acstatic.co/logos/canais/fx.png" group-title="ツ | CATEGORIA",FX
+http://hdmais.com:80/Matheus2689/mat6935/10054798
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="ツ | CATEGORIA",HBO
+http://hdmais.com:80/Matheus2689/mat6935/10054600
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="ツ | CATEGORIA",HBO 2
+http://hdmais.com:80/Matheus2689/mat6935/10054608
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" group-title="ツ | CATEGORIA",HBO Family
+http://hdmais.com:80/Matheus2689/mat6935/10054604
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="ツ | CATEGORIA",HBO Mundi
+http://hdmais.com:80/Matheus2689/mat6935/10054595
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://i.imgur.com/rhEhUAQ.png" group-title="ツ | CATEGORIA",HBO+
+http://hdmais.com:80/Matheus2689/mat6935/10054615
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop FHD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="ツ | CATEGORIA",HBO Pop
+http://hdmais.com:80/Matheus2689/mat6935/10054588
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" group-title="ツ | CATEGORIA",HBO Signature
+http://hdmais.com:80/Matheus2689/mat6935/10054579
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="ツ | CATEGORIA",HBO Xtreme
+http://hdmais.com:80/Matheus2689/mat6935/10054572
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="ツ | CATEGORIA"Megapix
+http://hdmais.com:80/Matheus2689/mat6935/10054537
+#EXTINF:-1 tvg-id="Paramounthd.BR" tvg-name="Paramount Channel FHD" tvg-logo="https://acstatic.co/logos/canais/paramount.png" group-title="ツ | CATEGORIA",Paramount Channel
+http://hdmais.com:80/Matheus2689/mat6935/10054484
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="ツ | CATEGORIA",Space
+http://hdmais.com:80/Matheus2689/mat6935/10054385
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" group-title="ツ | CATEGORIA",Studio Universal
+http://hdmais.com:80/Matheus2689/mat6935/10054341
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://i.imgur.com/8IMBcsq.png" group-title="ツ | CATEGORIA",TCM
+http://hdmais.com:80/Matheus2689/mat6935//10027045
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/8QsY4lE.png" group-title="ツ | CATEGORIA",TNT
+http://hdmais.com:80/Matheus2689/mat6935/10055132
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://i.imgur.com/vGKj34F.png" group-title="ツ | CATEGORIA",Telecine Action
+http://hdmais.com:80/Matheus2689/mat6935/10054329
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://i.imgur.com/AKTFwl3.png" group-title="ツ | CATEGORIA",Telecine Cult
+http://hdmais.com:80/Matheus2689/mat6935/10054322
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://i.imgur.com/WLeJ6Na.png" group-title="ツ | CATEGORIA",Telecine Fun
+http://hdmais.com:80/Matheus2689/mat6935/10054315
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/Nn9zY4M.png" group-title="ツ | CATEGORIA",Telecine Pipoca
+http://hdmais.com:80/Matheus2689/mat6935/10054308
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://i.imgur.com/Lo5jxQU.png" group-title="ツ | CATEGORIA",Telecine Premium
+http://hdmais.com:80/Matheus2689/mat6935/10054301
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://i.imgur.com/l1ncin2.png" group-title="ツ | CATEGORIA",Telecine Touch
+http://hdmais.com:80/Matheus2689/mat6935/10054294
 
 ############## infantis #################  
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="ツ | INFANTIS",Cartoon Network
